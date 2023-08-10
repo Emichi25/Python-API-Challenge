@@ -10,8 +10,6 @@ https://openweathermap.org/current
 
  https://python-graph-gallery.com/scatter-plot/
 
- Look 6.1-6.3 notes, work and review videos
-
 https://www.geeksforgeeks.org/linear-regression-formula/?ref=gcse
 
  https://stackoverflow.com/questions/19068862/how-to-overplot-a-line-on-a-scatter-plot-in-python
