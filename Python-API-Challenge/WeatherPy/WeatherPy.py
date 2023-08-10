@@ -425,7 +425,7 @@ plt.show()
 # Northern Hemisphere
 x_lbl = "Lat"
 y_lbl = "Cloudiness"
-plt.title("Northern Hemisphere Latitude vs. Cloudiness on")
+plt.title("Northern Hemisphere Latitude vs. Cloudiness")
 lbl_pos = (0,10)
 LinearRegression(northern_hemi_df[x_lbl],northern_hemi_df[y_lbl],x_lbl,y_lbl,lbl_pos,9)
 plt.grid()
